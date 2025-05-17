@@ -1,0 +1,79 @@
+{
+    "dishes": [
+        {
+            "expiryHours": 48,
+            "name": "Десерт Три молока",
+            "photoPath": "C:/Users/dimas/DishExpiryTracker/photos/Десерт три молока.jpg"
+        },
+        {
+            "expiryHours": 1,
+            "name": "Кольцо с творожным кремом",
+            "photoPath": "C:/Users/dimas/DishExpiryTracker/photos/Кольцо с творожным кремом.jpeg"
+        },
+        {
+            "expiryHours": 4,
+            "name": "Корзинка с ореховой начинкой",
+            "photoPath": ""
+        },
+        {
+            "expiryHours": 48,
+            "name": "Корзинка соленая карамель",
+            "photoPath": "C:/Users/dimas/DishExpiryTracker/photos/Корзинка соленая карамель.jpg"
+        },
+        {
+            "expiryHours": 48,
+            "name": "Корзиночка с белковым кремом",
+            "photoPath": ""
+        },
+        {
+            "expiryHours": 1,
+            "name": "Кростата с брусникой",
+            "photoPath": "C:/Users/dimas/DishExpiryTracker/photos/Кростата с брусникой.jpg"
+        },
+        {
+            "expiryHours": 96,
+            "name": "Кростата с вишней",
+            "photoPath": "C:/Users/dimas/DishExpiryTracker/photos/Кростата с брусникой_2.jpg"
+        },
+        {
+            "expiryHours": 48,
+            "name": "Пирожное Буше",
+            "photoPath": ""
+        },
+        {
+            "expiryHours": 48,
+            "name": "Пирожное Вупи пай",
+            "photoPath": ""
+        },
+        {
+            "expiryHours": 72,
+            "name": "Пирожное Кейк-попс в ассортименте",
+            "photoPath": ""
+        },
+        {
+            "expiryHours": 24,
+            "name": "Пирожное Муравейник",
+            "photoPath": "C:/Users/dimas/DishExpiryTracker/photos/263943_bpikw_2.jpg"
+        },
+        {
+            "expiryHours": 48,
+            "name": "Пирожное домашнее",
+            "photoPath": ""
+        },
+        {
+            "expiryHours": 48,
+            "name": "Пирожное картошка",
+            "photoPath": ""
+        },
+        {
+            "expiryHours": 40,
+            "name": "Пирожное медовик",
+            "photoPath": ""
+        },
+        {
+            "expiryHours": 48,
+            "name": "Пирожное морковное",
+            "photoPath": "C:/Users/dimas/DishExpiryTracker/photos/Пирожное морковное.jpg"
+        }
+    ]
+}

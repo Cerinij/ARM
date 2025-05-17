@@ -1,0 +1,11 @@
+{
+    "colors": {
+        "critical": "#ff9999",
+        "expired": "#ff6666",
+        "warning": "#ff9600"
+    },
+    "criticalHours": 1,
+    "notificationsEnabled": true,
+    "runInBackground": true,
+    "warningHours": 5
+}
